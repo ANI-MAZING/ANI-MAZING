@@ -1,4 +1,4 @@
-# Hi, I'm Aniruddha 👋  
+# Hi, I'm Aniruddha   
 
 I build **full-stack applications** with a strong focus on **clean code, scalability, and user experience**.  
 Passionate about creating projects that make a **real-world impact**, I enjoy building from the perspective of both a **designer and a developer**.
