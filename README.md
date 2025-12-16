@@ -1,4 +1,4 @@
-# Hi, I'm Aniruddha <img src="./chill-face-emoji-animation-gif-download-12132902.mp4hill-face-emoji-animation-gif-download-12132902.mp4">
+# Hi, I'm Aniruddha <img src="./emoji.gif">
 
 I build **full-stack applications** with a strong focus on **clean code, scalability, and user experience**.  
 Passionate about creating projects that make a **real-world impact**, I enjoy building from the perspective of both a **designer and a developer**.
