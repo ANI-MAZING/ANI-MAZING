@@ -26,15 +26,16 @@ In my free time, I freelance by creating **interactive, animation-driven website
 
 
 <h3>Frontend & Animations</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoKk8ADopGpzpgcUN06EmKmdV0nGBamFGpA&s" height="40" />
-  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/250px-WebGL_Logo.svg.png" height="40" />
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoKk8ADopGpzpgcUN06EmKmdV0nGBamFGpA&s" height="36" />
+  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" height="36" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/250px-WebGL_Logo.svg.png" height="36" />
 </p>
+
 
 <h3>State, Data & Backend</h3>
 <p>
