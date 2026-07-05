@@ -11,7 +11,6 @@ In my free time, I freelance by creating **interactive, animation-driven website
 ✨ Open to collaborations, freelance work, and exciting opportunities. Feel free to reach out.
 
 
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -60,7 +59,6 @@ In my free time, I freelance by creating **interactive, animation-driven website
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
----
 
 ## 🌱 Check out my Projects
 
